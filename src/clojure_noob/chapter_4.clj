@@ -57,3 +57,4 @@
 
 (count [2 3])
 
+(take 3 (repeatedly #(rand-int 10)))
